@@ -22,10 +22,16 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ## 🗄 SQL
 
-- [Select & Where](SQL/SELECT.md)
-- [Joins](SQL/JOINS.md)
-- [Group By](SQL/GROUP_BY.md)
-- [Aggregations](SQL/AGGREGATIONS.md)
+### 📂 Topics
+
+- [SELECT](SQL/SELECT.md)
+- [WHERE](SQL/WHERE.md)
+- [ORDER BY](SQL/ORDER_BY.md)
+- [GROUP BY](SQL/GROUP_BY.md)
+- [HAVING](SQL/HAVING.md)
+- [JOINS](SQL/JOINS.md)
+- [SUBQUERIES](SQL/SUBQUERIES.md)
+- [WINDOW FUNCTIONS](SQL/WINDOW_FUNCTIONS.md)
 
 ---
 
