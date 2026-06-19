@@ -68,6 +68,23 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 ---
 
 
+# 📊 Excel Handbook
+
+## 🧮 Basic Formulas
+- [Basic Formulas](Excel/Basic_Formulas.md)
+
+## ⏱ Time Functions
+- [Time Functions](Excel/Time_Functions.md)
+
+## 🧹 Data Cleaning
+- [Data Cleaning](Excel/Data_Cleaning.md)
+
+## 📈 Advanced Formulas
+- [Advanced Formulas](Excel/Advanced_Formulas.md)
+
+---
+
+
 ## 🧠 Struktura logjike
 
 ```
