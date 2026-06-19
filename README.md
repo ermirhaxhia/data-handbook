@@ -1,12 +1,12 @@
-# Data Manipulation Handbook 📊
+# Data Manipulation Handbook
 
 Ky repository përmban një referencë të strukturuar për Python, SQL dhe R për analizë dhe manipulim të të dhënave.
 
 ---
 
-## 🐍 Python (Pandas)
+## Python (Pandas)
 
-### 📂 Topics
+### Topics
 
 - [Reading Data](Python/Reading_Data.md)
 - [Filtering](Python/Filtering.md)
@@ -20,9 +20,9 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
-## 🗄 SQL
+## SQL
 
-### 📂 Topics
+### Topics
 
 - [SELECT](SQL/SELECT.md)
 - [WHERE](SQL/WHERE.md)
@@ -35,9 +35,9 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
-## 📈 R (dplyr & tidyverse)
+## R (dplyr & tidyverse)
 
-### 📂 Topics
+### Topics
 
 - [Reading Data](R/Reading_Data.md)
 - [Filtering](R/Filtering.md)
@@ -50,7 +50,7 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
-## 🚀 Qëllimi i këtij repo
+## Qëllimi i këtij repo
 
 - Referencë e shpejtë për intervista
 - Kujtesë praktike gjatë punës
@@ -59,7 +59,7 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
-## 🔄 ETL (Extract, Transform, Load)
+## ETL (Extract, Transform, Load)
 
 - [Customer Report](ETL/Customer_Report.md)
 - [Sales Aggregation](ETL/Sales_Aggregation.md)
@@ -68,7 +68,7 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 ---
 
 
-# 📊 Excel Handbook
+# Excel Handbook
 
 - [Basic Formulas](EXCEL/Basic_Formulas.md)
 - [Time Functions](EXCEL/Time_Functions.md)
@@ -78,7 +78,7 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 ---
 
 
-## 🧠 Struktura logjike
+## Struktura logjike
 
 ```
 Data Source → Python/SQL → Transformim → Agregim → Export → Report
@@ -86,7 +86,7 @@ Data Source → Python/SQL → Transformim → Agregim → Export → Report
 
 ---
 
-## 🔥 Fokus kryesor
+## Fokus kryesor
 
 - pandas
 - SQL queries
