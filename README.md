@@ -29,11 +29,18 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
-## 📈 R (dplyr)
+## 📈 R (dplyr & tidyverse)
 
+### 📂 Topics
+
+- [Reading Data](R/Reading_Data.md)
 - [Filtering](R/Filtering.md)
-- [Group By](R/GroupBy_Summarise.md)
+- [Sorting (Arrange)](R/Arrange.md)
+- [Group By & Summarise](R/GroupBy_Summarise.md)
 - [Joins](R/Joins.md)
+- [Missing Values](R/Missing_Values.md)
+- [Date & Time](R/DateTime.md)
+- [Exporting Data](R/Exporting_Data.md)
 
 ---
 
