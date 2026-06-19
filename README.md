@@ -59,6 +59,15 @@ Ky repository përmban një referencë të strukturuar për Python, SQL dhe R p�
 
 ---
 
+## 🔄 ETL (Extract, Transform, Load)
+
+- [Customer Report](Examples/Customer_Report.md)
+- [Sales Aggregation](Examples/Sales_Aggregation.md)
+- [ETL Workflow](Examples/ETL_Workflow.md)
+
+---
+
+
 ## 🧠 Struktura logjike
 
 ```
